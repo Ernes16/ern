@@ -2,8 +2,8 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f, #1a2a6c);
-  color: white;
+  background: linear-gradient(135deg, #25d142, #c01818, #18a3ce);
+  color: rgba(255, 255, 255, 0.979);
   text-align: center;
   min-height: 100vh;
 }
@@ -44,7 +44,7 @@ p { font-size: 1.2rem; color: #e0e0ff; }
 
 /* Botón principal */
 .camera-button {
-  background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+  background: linear-gradient(to right, #cb1121 0%, hsl(218, 88%, 7%) 100%);
   color: white; border: none;
   padding: 18px 50px;
   font-size: 1.4rem;
